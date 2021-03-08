@@ -1,0 +1,23 @@
+
+.wraper {
+  max-width: 1000px;
+  margin: 0 auto;
+  background: #ddd
+}
+
+header img {
+  display: inline-block;
+  width: 150px
+  
+}
+
+.name {
+  display: inline-block;
+  margin: 20px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
