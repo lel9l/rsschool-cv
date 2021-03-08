@@ -43,7 +43,7 @@ I work as an indener programmer in a government agency in Minsk. This is my firs
 
 ```js
 (function rsSchool(student){
- let slkils = [js, git, ets.];
+ let skills = [student.js, student.git, ets.];
  return skills;
 })();
 ```
